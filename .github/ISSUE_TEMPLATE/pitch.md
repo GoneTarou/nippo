@@ -1,11 +1,12 @@
 ---
 name: pitch request
 about: A workflow for pitch event
-title:  "Pitch stand by mm/dd"
-labels: 'ToDo'
-projects: '(your_id)/my-todo'
-assignees: '(your_id)'
+title: Pitch stand by mm/dd
+labels: ''
+assignees: ''
+
 ---
+
 - [ ] Request form
 - [ ] Fix title
 - [ ] Ask in Slack
