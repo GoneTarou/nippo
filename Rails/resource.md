@@ -1,4 +1,6 @@
-## resource（ルーティング）
+## resource（ルーティング）  
+https://railsguides.jp/routing.html  
+
 Rails の resource は、RESTful なルーティングを自動生成してくれる便利な機能 
 ```ruby
 resources :articles
