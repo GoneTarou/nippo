@@ -105,5 +105,5 @@ def terminate_session
   cookies.delete(:session_id)
 end
 ```
-ログアウト処理
+- ログアウト処理
 
