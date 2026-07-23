@@ -1,4 +1,6 @@
 ## Rails 8: strong parametersの新しいparams.expectの使い方
+https://railsguides.jp/action_controller_overview.html
+
 https://techracho.bpsinc.jp/hachi8833/2024_11_12/146280
 
 params.expect は、Rails 8で追加されたStrong Parametersの新しい書き方です。
